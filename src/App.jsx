@@ -19,7 +19,7 @@ function App() {
       >
         3
       </div>
-      <div className="box" data-aos="fade-right">
+      <div className="box" data-aos="fade-up">
         4
       </div>
       <div className="box" data-aos="fade-left">
